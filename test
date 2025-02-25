@@ -1,0 +1,3 @@
+My practice session for GIT today 25/02/2025 --- first line
+I made changes to the test file once after i "add" the file to the staging area (using git rm --cached <file>)
+
