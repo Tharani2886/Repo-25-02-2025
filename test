@@ -2,4 +2,5 @@ My practice session for GIT today 25/02/2025 --- first line
 I made changes to the test file once after i "add" the file to the staging area (using git rm --cached <file>)
 I made recommit to my first commit as "second commit" by using ------ ( git commit --amend -m "New commit message")
 this is the line - to check - git diff
+created feature branch "Thiagaraja.G" 
 
